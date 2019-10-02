@@ -19,3 +19,13 @@ A website for Vidyalankar Institute of Technology's cultural festival Verve 2017
 ### What doesn't work:
 * Requires manual entry of events to the database. No Admin page for event entry.
 * Payment for events not set-up.
+
+## Home Page
+![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home1.png)
+![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home3.png)
+## Individual Category Page
+![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/categorypage.png)
+## Registration Page
+![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/registerpage.png)
+## Cart Page
+![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/cart.png)
