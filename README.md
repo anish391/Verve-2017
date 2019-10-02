@@ -21,11 +21,13 @@ A website for Vidyalankar Institute of Technology's cultural festival Verve 2017
 * Payment for events not set-up.
 
 ## Home Page
-![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home1.png)
-![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home3.png)
-## Individual Category Page
-![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/categorypage.png)
-## Registration Page
-![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/registerpage.png)
-## Cart Page
-![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/cart.png)
+![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/HomePage1.PNG)
+![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/HomePage2.png)
+## Event Registration Page
+![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/Event%20Registration.PNG)
+## Event Information
+![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/Event%20Information%20Popup.PNG)
+## Acknowledgements
+
+![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/Acknowledgements.PNG)
+Adopted from [Oxygen One Page Templates](https://demo.themeum.com/html/oxygen/)
