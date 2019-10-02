@@ -24,7 +24,7 @@ A website for Vidyalankar Institute of Technology's cultural festival Verve 2017
 ![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/HomePage1.PNG)
 ![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/HomePage2.png)
 ## Event Registration Page
-![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/Event%20Registration.PNG)
+![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/EventRegistration.PNG)
 ## Event Information
 ![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/Event%20Information%20Popup.PNG)
 ## Acknowledgements
