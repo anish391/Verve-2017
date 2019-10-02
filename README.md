@@ -30,4 +30,4 @@ A website for Vidyalankar Institute of Technology's cultural festival Verve 2017
 ## Acknowledgements
 
 ![alt text](https://github.com/anish391/Verve-2017/blob/master/screenshots/Acknowledgements.PNG)
-Adopted from [Oxygen One Page Templates](https://demo.themeum.com/html/oxygen/)
+<br><br>Adopted from [Oxygen One Page Templates](https://demo.themeum.com/html/oxygen/)
